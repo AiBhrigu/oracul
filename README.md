@@ -1,3 +1,15 @@
+# Historical repository
+
+> **Status:** historical research layer · preserved for provenance.
+>
+> This repository documents an earlier ORION / BHRIGU research phase. Its predictive-market, financial-astrology, History Machine, ICP, or older role language is **not the current public authority** for Φ Research Systems, ORION, Delta, Frey, Cosmographer, or BHRIGU.
+>
+> **Current authority:** [AiBhrigu public system hierarchy](https://github.com/AiBhrigu/AiBhrigu) · [Φ Research Systems](https://www.bhrigu.io/systems?lang=en)
+>
+> Historical files, claims, credits, and commit history below are intentionally preserved unchanged.
+
+---
+
 # 🌌 ORION · BHRIGU AI
 > Astrological AI & Planetary Cycle Framework  
 > Building the **History Machine** 🪐
